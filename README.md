@@ -1,8 +1,3 @@
-# Poja scheduled mailing template
-
-This repository demonstrates how to add scheduled mailing to an application and serves as a template for the Poja platform.
-
-It is based on the official guide: [Hello world with scheduled mailing](https://docs.poja.io/docs/hello-world-but-with-scheduled-tasks)
 # poja-scheduled-mailing-template — cron-triggered tasks for Spring Boot
 
 A [Poja](https://poja.io) starter template with **AWS EventBridge scheduled tasks** pre-configured. Define a cron expression in the dashboard — Poja fires your async worker automatically, no cron daemon or scheduler to run.
