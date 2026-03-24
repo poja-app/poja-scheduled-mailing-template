@@ -4,6 +4,10 @@ A [Poja](https://poja.io) starter template with **AWS EventBridge scheduled task
 
 → **[Full guide on docs.poja.io](https://docs.poja.io/docs/hello-world-but-with-scheduled-tasks)**
 
+Or hit the `Deploy to Poja` button to **deploy this template on your account** :
+
+[![Deploy on Poja](https://img.shields.io/badge/Deploy%20On%20Poja-007BFF?style=for-the-badge)](https://console.poja.io/applications/create/clone/?templateId=ede01491-2862-40f9-b356-b2c73b17a929)
+
 ---
 
 ### What you get
